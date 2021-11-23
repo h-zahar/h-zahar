@@ -37,4 +37,4 @@
 ### GitHub Stats
 
 [![Hassan Zahar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iFall-iFail)](https://github.com/anuraghazra/github-readme-stats)
-[![Hassan Zahar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iFall-iFail)](https://github.com/anuraghazra/github-readme-stats) <br />
+[![Hassan Zahar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iFall-iFail&count_private=true)](https://github.com/anuraghazra/github-readme-stats) <br />
