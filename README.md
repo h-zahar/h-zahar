@@ -32,8 +32,8 @@
 ### GitHub Stats
 
 <!-- ![Hassan Zahar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iFall-iFail&count_private=true) -->
+![Hassan Zahar's Profile Views](https://gpvc.arturio.dev/iFall-iFail)<br />
 ![Hassan Zahar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iFall-iFail)
 ![Hassan Zahar's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iFall-iFail)
 ![Hassan Zahar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iFall-iFail)
-![Hassan Zahar's Profile Views](https://gpvc.arturio.dev/iFall-iFail)
 <br />
