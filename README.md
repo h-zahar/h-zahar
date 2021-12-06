@@ -9,7 +9,6 @@
 - ⚡ Fun fact: I love both tea and coffee, and you?
 
 ---
-<br />
 
 ### Contact Me
 
