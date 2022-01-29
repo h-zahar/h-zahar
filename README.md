@@ -1,6 +1,6 @@
 # Hi there.. I'm Hassan Zahar
 
-## I'm a Learner and Doer!!
+## I'm a Learner and Doer !!
 
 - 🌱 I’m currently learning React.js
 - 👀 I'm interested in Next.js
