@@ -52,4 +52,4 @@
 ![Hassan Zahar's GitHub Activity Graph](https://github-activity-graph-deploy.herokuapp.com/graph?username=h-zahar)
 
 </details> -->
-<br />
+<!-- <br /> -->
