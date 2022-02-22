@@ -44,12 +44,12 @@
 ![Hassan Zahar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h-zahar)
 ![Hassan Zahar's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=h-zahar)
 
-<details>
+<!-- <details>
 <summary>
   <strong>Activity Graph</strong>
 </summary><br />
 
 ![Hassan Zahar's GitHub Activity Graph](https://github-activity-graph-deploy.herokuapp.com/graph?username=h-zahar)
 
-</details>
+</details> -->
 <br />
