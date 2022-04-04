@@ -14,6 +14,7 @@
 
 [![(Website)](https://img.shields.io/badge/Website-H.Zahar-9cf.svg?&style=for-the-badge&logo=WebMoney)](https://h-zahar.web.app/)
 [![(Linkedin)](https://img.shields.io/badge/Linkedin-H.Zahar-9cf.svg?&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/h-zahar/)
+[![(DEV)](https://img.shields.io/badge/DEV-H.Zahar-9cf.svg?&style=for-the-badge&logo=dev.to)](https://dev.to/hzahar)
 <br />
 
 ### Languages and Tools
