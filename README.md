@@ -3,10 +3,10 @@
 ## I'm a Learner and Doer !!
 
 - 🌱 I’m currently learning React.js
-- 👀 I'm interested in Next.js
+- 👀 Interested in Next.js
 - 👯 Looking forward to collaborate with other developers
 - 🥅 2022 Goal: Contribute more to React projects
-- ⚡ Fun fact: I love both tea and coffee, and you?
+- ⚡ Fun fact: Love both tea and coffee. What about you?
 
 ---
 
