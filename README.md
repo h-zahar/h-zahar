@@ -12,7 +12,7 @@
 
 ### Contact Me
 
-[![(Website)](https://img.shields.io/badge/Website-H.Zahar-9cf.svg?&style=for-the-badge&logo=WebMoney)](https://h-zahar.web.app/)
+[![(Website)](https://img.shields.io/badge/Website-H.Zahar-9cf.svg?&style=for-the-badge&logo=WebMoney)](https://hzahar.com/)
 [![(Twitter)](https://img.shields.io/badge/Twitter-@HZaharR-9cf.svg?&style=for-the-badge&logo=Twitter)](https://twitter.com/hzaharr)
 [![(Linkedin)](https://img.shields.io/badge/Linkedin-H.Zahar-9cf.svg?&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/h-zahar/)
 <br />
