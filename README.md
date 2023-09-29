@@ -2,10 +2,10 @@
 
 ## I'm a Learner and Doer !!
 
-- 🌱 I’m currently learning React.js
-- 👀 Interested in Next.js
-- 👯 Looking forward to collaborate with other developers
-- 🥅 2022 Goal: Contribute more to React projects
+- 🌱 I’m currently exploring SaaS platforms
+- 👀 Interested in Cloud technologies
+- 👯 Looking forward to collaborating with other developers
+- 🥅 2024 Goal: Contribute to SaaS projects
 - ⚡ Fun fact: Love both tea and coffee. What about you?
 
 ---
@@ -43,7 +43,8 @@
 <!-- ![Hassan Zahar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=h-zahar&count_private=true) -->
 <!-- ![Hassan Zahar's Profile Views](https://gpvc.arturio.dev/h-zahar)<br /> -->
 ![Hassan Zahar's Top Languages](https://h-zahar-readme-stats.vercel.app/api/top-langs/?username=h-zahar)
-![Hassan Zahar's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=h-zahar)
+![Hassan Zahar's GitHub Streak Stats](https://github-readme-streak-stats-peach.vercel.app?user=h-zahar)
+<!-- ![Hassan Zahar's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=h-zahar) >
 
 <!-- <details>
 <summary>
