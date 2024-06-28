@@ -14,8 +14,6 @@
 
 [![(X)](https://img.shields.io/badge/Twitter-@HZaharR-9cf.svg?&style=for-the-badge&logo=X)](https://twitter.com/hzaharr)
 [![(YouTube)](https://img.shields.io/badge/YouTube-@HZaharR-9cf.svg?&style=for-the-badge&logo=Youtube)](https://www.youtube.com/@hzaharr)
-[![(LinkedIn)](https://img.shields.io/badge/Linkedin-H.Zahar-9cf.svg?&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/h-zahar/)
-[![(Website)](https://img.shields.io/badge/Website-H.Zahar-9cf.svg?&style=for-the-badge&logo=WebMoney)](https://hzahar.com/)
 <br />
 
 ### Languages and Tools
