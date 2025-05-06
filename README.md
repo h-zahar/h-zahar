@@ -42,6 +42,7 @@
 <!-- ![Hassan Zahar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=h-zahar&count_private=true) -->
 <!-- ![Hassan Zahar's Profile Views](https://gpvc.arturio.dev/h-zahar)<br /> -->
 <!-- ![Hassan Zahar's Top Languages](https://h-zahar-readme-stats.vercel.app/api/top-langs/?username=h-zahar) -->
+[![Hassan Zahar's GitHub Streak Stats](https://awesome-github-stats.azurewebsites.net/user-stats/h-zahar?cardType=level-alternate&showIcons=false&preferLogin=false&Title=FB8C00&Ring=FB8C00)](https://git.io/awesome-stats-card)<br />
 ![Hassan Zahar's GitHub Streak Stats](https://github-readme-streak-stats-peach.vercel.app?user=h-zahar)
 <!-- ![Hassan Zahar's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=h-zahar) >
 
