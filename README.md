@@ -5,7 +5,7 @@
 - 🌱 I’m currently exploring SaaS platforms
 - 👀 Interested in Cloud technologies
 - 👯 Looking forward to collaborating with other developers
-- 🥅 2025 Goal: Contribute to SaaS projects
+- 🥅 2026 Goal: Contribute to SaaS projects
 - ⚡ Fun fact: Love both tea and coffee. What about you?
 
 ---
